@@ -1,0 +1,63 @@
+{
+ "attributes": [
+  {
+   "label": "compensation",
+   "postingAttributeKey": "remuneration",
+   "specialType": "key_value",
+   "value": "$150 MONTHLY-  $75 EVERY TWO WEEKS"
+  },
+  {
+   "forSearch": {
+    "employment_type": "4"
+   },
+   "label": "employment type",
+   "postingAttributeKey": "employment_type",
+   "specialType": "key_value",
+   "value": "employee's choice"
+  },
+  {
+   "label": "experience level",
+   "postingAttributeKey": "experience_level",
+   "specialType": "key_value",
+   "value": "no experience required"
+  },
+  {
+   "label": "job title",
+   "postingAttributeKey": "job_title",
+   "specialType": "key_value",
+   "value": "UNKNOWN"
+  }
+ ],
+ "body": "IN NEED OF SOMEONE TO TAKE GARBAGE FROM BUILDING YARD TO CURB ON MONDAY AND THURSDAY EVENINGS ANYTIME AFTER  3PM FOR NEXT DAY PICK UP.  THE CANS WILL ALSO HAVE TO PLACED  BACK IN THE YARD THE NEXT DAY.<br>\n",
+ "category": "general labor",
+ "categoryAbbr": "lab",
+ "categoryId": 130,
+ "disabilityOk": true,
+ "hasContactInfo": true,
+ "images": [],
+ "location": {
+  "area": "new york",
+  "areaAbbr": "nyc",
+  "areaId": 3,
+  "description": "",
+  "displayAddress": "601 EUCLID AVE near SUTTER AND BLAKE",
+  "hostname": "newyork",
+  "lat": 40.67228,
+  "lon": -73.871166,
+  "neighborhood": "",
+  "subArea": "brooklyn",
+  "subareaAbbr": "brk",
+  "type": "pin"
+ },
+ "notices": [],
+ "postedDate": 1791193535,
+ "postingId": 7978167600,
+ "postingUuid": "q2ciz94ryENVN3wW5r3qtF",
+ "recordCreated": 1791193535,
+ "section": "jobs",
+ "seeMyOther": 0,
+ "streetAddress": 0,
+ "title": "GARBAGE PLACER",
+ "updatedDate": 1791193535,
+ "url": "https://www.craigslist.org/view/d/brooklyn-garbage-placer/q2ciz94ryENVN3wW5r3qtF"
+}

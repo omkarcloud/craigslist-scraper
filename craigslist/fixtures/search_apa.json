@@ -1,0 +1,522 @@
+{
+ "areas": {
+  "3": {
+   "areaUnits": "ft",
+   "currency": "USD",
+   "distanceUnits": "mi",
+   "name": "newyork"
+  }
+ },
+ "bundleDups": 1,
+ "cacheTs": 1791194743,
+ "canonicalUrl": "//www.craigslist.org/search/area/newyork?cat=apa",
+ "categoryAbbr": "apa",
+ "decode": {
+  "locationDescriptions": [
+   0,
+   "queens",
+   "Ozone Park / Jamaica / Richmond Hill / Queens",
+   "Inwood / Wash Hts",
+   "Pelham Gardes",
+   "Brooklyn",
+   "Staten Island",
+   "JERSEY CITY",
+   "East Village",
+   "Midtown East",
+   "Murray Hill",
+   "Canarsie",
+   "Forest Hills",
+   "Financial District",
+   "Queens /Springfield",
+   "Bushwick &Broadway",
+   "ASTORIA",
+   "East Harlem",
+   "bronx",
+   "Rego Park",
+   "Flatbush",
+   "Bay Terrace",
+   "Dongan Hills",
+   "Clinton Hill",
+   "Bronx",
+   "Brooklyn, NY",
+   "HARRISON",
+   "Gramatan",
+   "westchester",
+   "South Park Slope, 4Ave & 27St",
+   "Williamsburg",
+   "Bryn Mawr",
+   "Great Kills",
+   "Springfield Gardens",
+   "Upper East Side",
+   "manhattan",
+   "Bridgeport",
+   "Greenwich Village",
+   "Sunnyside",
+   "Bushwick @ Myrtle/Wyckoff L/M",
+   "Fort Greene",
+   "Bushwick @ Central M",
+   "Bedford-Stuyvesant",
+   "Bushwick",
+   "Ridgewood @ Fresh Pond M",
+   "Greenpoint @ Greenpoint Av G",
+   "GLENDALE",
+   "Bed Stuy @ Gates J",
+   "Crown heights @ Nostrand A/C",
+   "Upper West Side",
+   "South Richmond Hill",
+   "boerum hill",
+   "Parkchester-Bronx, New York",
+   "brooklyn",
+   "Park Slope",
+   "Wakefield",
+   "HYLAN BLVD...GRANT CITY",
+   "Chelsea",
+   "Lower East Side",
+   "BRONX, NY",
+   "Maspeth",
+   "70st, Woodside / Jackson Heights",
+   "JACKSON HEIGHTS",
+   "off Astoria Blvd",
+   "Jamaica Ave",
+   "Richmond Hill",
+   "Ridgewood",
+   "WOODSIDE",
+   "South Ozone Park",
+   "Gowanus",
+   "Middle Village",
+   "Fresh Meadows",
+   "Jamaica",
+   "Harlem / Morningside",
+   "Yonkers",
+   "Astoria",
+   "SUNNYSIDE, WOODSIDE",
+   "Jersey City",
+   "College Park, Lake Worth",
+   "fairfield co, CT",
+   "Greenpoint",
+   "Crown Heights, Brooklyn",
+   "Woodside",
+   "New Fairfield",
+   "Midtown West",
+   "Norwalk, CT",
+   "Long Island City",
+   "Elmhurst",
+   "long island",
+   "Downtown",
+   "staten island",
+   "PORT WASHINGTON",
+   "East Elmhurst",
+   "PRIME JAMAICA",
+   "TAPPAN",
+   "Ozone Park / Howard Beach / Woodhaven / Crossbay",
+   "New Rochelle",
+   "Kew Garden Hills / Fresh Meadows",
+   "32st, Astoria Blvd",
+   "82st, Jackson Heights",
+   "Flushing",
+   "Crown Heights",
+   "Queens Village",
+   "East Flatbush",
+   "Central Harlem",
+   "Carroll Gardens",
+   "Downtown Brooklyn",
+   "BRONX",
+   "JAMAICA",
+   "WHITE PLAINS",
+   "Weeksville",
+   "Bed Stuy",
+   "Midwood",
+   "Manhattan",
+   "Greenwood",
+   "Jersey City (Journal Square Path)",
+   "Alderton Street, Rego Park/Forest Hills",
+   "VALLAY STREAM NY",
+   "woodside",
+   "Brighton Beach",
+   "Beekman",
+   "Bridgeport, CT",
+   "Bayside near NORTH Flushing and Whitestone",
+   "Bayside near Douglaston and Little Neck",
+   "Whitestone near North Flushing",
+   "Prospect Heights/ Crown Heights/ Clinton Hill/ Bed stuy",
+   "Harrison",
+   "BRIARWOOD",
+   "Crown heights/Lefferts Garden/Kensington/ Brough Park",
+   "Flatbush/ Lefferts Garden/ East Flatbush/ Kensington",
+   "Nolita / Bowery",
+   "Bensonhurst",
+   "CITY LINE/BROOKLYN",
+   "Bedford Stuyvesant",
+   "fresh meadows",
+   "Mount Vernon/Bronx/Harlem",
+   "seaford",
+   "Arverne",
+   "Corona",
+   "Mount Vernon",
+   "Ozone Park",
+   "Bay Ridge",
+   "Greenwood Heights / South Slope, D, N, Q, R, & W trains",
+   "Williansburg",
+   "Flatbush / PLG, 2,5 trains @ Church Ave station",
+   "Brownville",
+   "YONKERS",
+   "Yorkville",
+   "Glendale",
+   "Farragut",
+   "Boerum Hill",
+   "Brooklyn Heights",
+   "Prospect Heights",
+   "Prospect Lefferts Gardens",
+   "ELMHURST"
+  ],
+  "locations": [
+   0,
+   [
+    3,
+    "newyork",
+    "que"
+   ],
+   [
+    3,
+    "newyork",
+    "mnh"
+   ],
+   [
+    3,
+    "newyork",
+    "brx"
+   ],
+   [
+    3,
+    "newyork",
+    "brk"
+   ],
+   [
+    3,
+    "newyork",
+    "stn"
+   ],
+   [
+    3,
+    "newyork",
+    "jsy"
+   ],
+   [
+    3,
+    "newyork",
+    "wch"
+   ],
+   [
+    3,
+    "newyork",
+    "fct"
+   ],
+   [
+    3,
+    "newyork",
+    "lgi"
+   ]
+  ],
+  "maxPostedDate": 1791190063,
+  "minDate": 1789862400,
+  "minPostedDate": 1790969791,
+  "minPostingId": 7969553952,
+  "neighborhoods": [
+   0,
+   "Inwood / Wash Hts",
+   "East Village",
+   "Midtown East",
+   "Murray Hill",
+   "Financial District",
+   "East Harlem",
+   "Upper East Side",
+   "Greenwich Village",
+   "Upper West Side",
+   "Chelsea",
+   "Lower East Side",
+   "Harlem / Morningside",
+   "Midtown West",
+   "Downtown",
+   "Nolita / Bowery"
+  ],
+  "version": 2
+ },
+ "detailsOrder": "date",
+ "humanReadableParams": [
+  {
+   "key": "sort",
+   "name": "sort",
+   "value": "newest"
+  }
+ ],
+ "items": [
+  [
+   8608380,
+   220272,
+   1,
+   3200,
+   "1:1~40.7351~-73.8776",
+   "0nm0hw",
+   [
+    13,
+    "g3yUzHFXkwngUgDhDdd7HU"
+   ],
+   [
+    4,
+    "3:00000_aXnnWSbfqgj_0nm0hw",
+    "3:00q0q_5O6bKj7ix3U_0nm0hw",
+    "3:00i0i_1yJOe9hVofi_0nm0hw",
+    "3:00X0X_2hGHvnmjW4D_0nm0hw",
+    "3:00E0E_j0JerrytO4E_0nm0hw",
+    "3:00404_3g9myPSyhOX_0nm0hw",
+    "3:01313_9lV0chDn7dS_0hw0nm",
+    "3:00h0h_hZO3BVNMYRC_0hw0nm",
+    "3:00A0A_ct8DbaEPez_0hw0nm",
+    "3:00P0P_7mxcqswIoVs_0hw0nm",
+    "3:00N0N_iU6sWzVLLtq_0nm0hw",
+    "3:00k0k_2aYQkCt6yMZ_0nm0hw"
+   ],
+   [
+    6,
+    "elmhurst-elmhurst-huge-bed-bath-ktcn-dr"
+   ],
+   [
+    10,
+    "$3,200"
+   ],
+   "Elmhurst huge 3 bed 2 bath 1 Ktcn 1 DR 1 LR 1 balcony MUST SEE!",
+   [
+    5,
+    3,
+    1250
+   ]
+  ],
+  [
+   8598711,
+   213951,
+   1,
+   2900,
+   "1:2~40.6838~-73.8514",
+   "0CI0t2",
+   [
+    13,
+    "rzzegRNEU13aJQbxHPgn4Y"
+   ],
+   [
+    4,
+    "3:00C0C_kpUDFeynwHY_0CI0t2",
+    "3:01212_eR9isB82yzf_09G07g",
+    "3:00y0y_dhtIJM3NyJ6_09G07g",
+    "3:00N0N_4fz2Qhnf84S_0CI0t2",
+    "3:00q0q_67IALpfPVfd_07K05O",
+    "3:00303_cwvEGupL2Ff_0gw0cp",
+    "3:01414_d5lcqbqEMH9_05r07g",
+    "3:00i0i_idXXLusR1VA_09G07g",
+    "3:00A0A_8J8REBUswWw_07K05O",
+    "3:00F0F_dplb94MREJy_07K05O",
+    "3:00o0o_2U9EKfYsvmw_09G07g",
+    "3:01717_7dnBlvSGPAN_07K05O",
+    "3:00Z0Z_4LJPtoAz7cj_07K05O",
+    "3:00k0k_1FK9aD0JF8h_09G07g",
+    "3:00303_bf49G7C13so_09G07g",
+    "3:00V0V_5ol4HllD9M0_07K05O",
+    "3:00h0h_fQh3tqlx9Ko_05r07g",
+    "3:00Z0Z_baJyCeNAAyZ_0CI0t2",
+    "3:00303_gLqKIy6LWeA_0lM0t2",
+    "3:00Y0Y_8MidgnRK9Xz_0CI0t2",
+    "3:00J0J_gLTYqbFZagU_0CI0t2"
+   ],
+   [
+    6,
+    "ozone-park-patio-with-garden"
+   ],
+   [
+    10,
+    "$2,900"
+   ],
+   "PATIO WITH GARDEN.  UNFURNISHED / FURNISHED.  NEAR ALL.",
+   [
+    5,
+    2,
+    0
+   ]
+  ],
+  [
+   8598399,
+   213783,
+   1,
+   2890,
+   "2:3:1~40.8382~-73.942",
+   "0t20CI",
+   [
+    13,
+    "1Uu7U4jskvbUfL9LEYuUqq"
+   ],
+   [
+    4,
+    "3:00x0x_lxTRVuTw9bu_0t20CI",
+    "3:00v0v_8DqdtprhD5l_0t20CI",
+    "3:00A0A_kodYWox3N7C_0t20CI",
+    "3:00d0d_ebvIUcSoGAT_0t20CI",
+    "3:00A0A_ewQhIFU0srn_0t20CI",
+    "3:01717_4KgsCLTisH1_0t20CI",
+    "3:00303_49NHa1l70H5_0t20CI"
+   ],
+   [
+    6,
+    "new-york-amazing-true-bedroom-west"
+   ],
+   [
+    10,
+    "$2,890"
+   ],
+   "Amazing True 2 Bedroom West 171st Street",
+   [
+    5,
+    2,
+    0
+   ]
+  ],
+  [
+   8593875,
+   211393,
+   1,
+   2200,
+   "3:4~40.8702~-73.8495",
+   "0es0jh",
+   [
+    13,
+    "nNEiponYfokn1eQWPuJBN9"
+   ],
+   [
+    4,
+    "3:00q0q_hOBmRlZa9Gu_0es0jh",
+    "3:00S0S_i9qkFrweKKV_0kY0da",
+    "3:00M0M_4NsYWXo69wC_0CI0t2",
+    "3:00b0b_iTCMfq5kP0G_0t20CI",
+    "3:00i0i_g2Oz5u5EgvE_0CI0t2",
+    "3:00N0N_10EGvArbWfn_0lM0t2"
+   ],
+   [
+    6,
+    "bronx-studio-apartment-for-rent-pelham"
+   ],
+   [
+    10,
+    "$2,200"
+   ],
+   "Studio Apartment For Rent Pelham Gardens",
+   [
+    5,
+    1,
+    0
+   ]
+  ],
+  [
+   8589216,
+   209029,
+   1,
+   3965,
+   "4:5~40.6428~-73.956",
+   "0CI0lM",
+   [
+    13,
+    "qAo8xBdJZfrXNG1rvQo5kE"
+   ],
+   [
+    4,
+    "3:01414_kj4KGCZu2FN_0CI0lM",
+    "3:00Z0Z_jjAro2OPGBp_0CI0lM",
+    "3:00303_9zqQbpddCPF_0CI0lM",
+    "3:01616_48joTsc0vms_0CI0lM",
+    "3:00S0S_3DE0kw5rp25_0CI0lM",
+    "3:00W0W_2yy7ej5o8Z9_0CI0lM",
+    "3:00q0q_TootnYOoyr_0CI0lM",
+    "3:00b0b_e68sAL4EQu1_0CI0lM",
+    "3:00b0b_kNEJj6KF9ib_0CI0lM",
+    "3:00c0c_8qR3MLSuASm_0CI0lM",
+    "3:00f0f_fjaQsU108gg_0CI0lM",
+    "3:00d0d_7z6WVdSU217_0CI0lM",
+    "3:00s0s_bXYO5Kzc1mV_0CI0lM",
+    "3:00K0K_hZvfwnh9etv_0CI0lM",
+    "3:00y0y_cfAXyfchUyd_0CI0lM",
+    "3:00O0O_1tkI05ePaR_0CI0lM",
+    "3:00a0a_8KeQc2ayTGe_0CI0lM",
+    "3:00707_3e9o3fLXa9U_0CI0lM"
+   ],
+   [
+    6,
+    "brooklyn-luxury-rent-stabilized"
+   ],
+   [
+    10,
+    "$3,965"
+   ],
+   "Luxury rent stabilized",
+   [
+    5,
+    2,
+    0
+   ]
+  ],
+  [
+   8586099,
+   207637,
+   1,
+   1600,
+   "5:6~40.5457~-74.1792",
+   "0cm09h",
+   [
+    13,
+    "21XK1dN862EYQgsqcpoTmE"
+   ],
+   [
+    4,
+    "3:00N0N_d77nGGHRCtA_0cm09h",
+    "3:00Y0Y_40HJrkIJEC9_0aK085",
+    "3:00L0L_gq1viXNOBdw_0aN086",
+    "3:01010_63XwbxNgyqJ_0aM084",
+    "3:00e0e_bAJlIe1WuqK_0cj09e",
+    "3:00L0L_jAPC8ROiS5Y_0ci09e",
+    "3:00808_8MqDLhYokZK_0ch09b",
+    "3:00N0N_jGwSVp6buZ1_0aP085",
+    "3:00c0c_e4VFcpaNjdx_0cl09e"
+   ],
+   [
+    6,
+    "staten-island-2br-apartment-for-rent"
+   ],
+   [
+    10,
+    "$1,600"
+   ],
+   "2BR Apartment for Rent – 634 Lamoka Ave",
+   [
+    5,
+    2,
+    0
+   ]
+  ]
+ ],
+ "lang": "en_US",
+ "location": {
+  "areaId": 3,
+  "city": "new york city",
+  "country": "US",
+  "lat": 40.714199,
+  "lon": -74.006401,
+  "postal": "",
+  "radius": 60,
+  "region": "NY",
+  "url": "newyork.craigslist.org"
+ },
+ "pageTitle": "new york  apartments / housing for rent   - craigslist",
+ "params": {
+  "query": ""
+ },
+ "relatedSearches": [],
+ "resultsOrder": "date",
+ "totalResultCount": 4588,
+ "updated": 1791194743,
+ "vicinity": null
+}

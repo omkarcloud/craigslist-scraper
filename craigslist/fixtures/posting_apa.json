@@ -1,0 +1,104 @@
+{
+ "attributes": [
+  {
+   "label": "bedrooms",
+   "postingAttributeKey": "bedrooms",
+   "specialType": "bedrooms",
+   "value": "3"
+  },
+  {
+   "label": "bathrooms",
+   "postingAttributeKey": "bathrooms",
+   "specialType": "bathrooms",
+   "value": "2"
+  },
+  {
+   "label": "area",
+   "postingAttributeKey": "area",
+   "specialType": "area",
+   "value": "1250 ft²"
+  },
+  {
+   "forSearch": {
+    "rent_period": "3"
+   },
+   "label": "rent period",
+   "postingAttributeKey": "rent_period",
+   "specialType": "key_value",
+   "value": "monthly"
+  },
+  {
+   "forSearch": {
+    "housing_type": "1"
+   },
+   "label": "housing type",
+   "postingAttributeKey": "housing_type",
+   "specialType": "value",
+   "value": "apartment"
+  },
+  {
+   "forSearch": {
+    "laundry": "5"
+   },
+   "label": "laundry",
+   "postingAttributeKey": "laundry",
+   "specialType": "value",
+   "value": "no laundry on site"
+  },
+  {
+   "forSearch": {
+    "parking": "5"
+   },
+   "label": "parking",
+   "postingAttributeKey": "parking",
+   "specialType": "value",
+   "value": "street parking"
+  }
+ ],
+ "body": "<br>\n<br>\n          Big &amp; Beautiful Apt<br>\n<br>\n- in Van Hirn St + 57 AV, Elmhurst<br>\n- 7 minute walk to subway <br>\n- in front of Queens Mall<br>\n- convenient for everything &amp; everywhere <br>\n- second floor for rent, very spacious <br>\n- newly renovated <br>\n- 3 bedroom ( 2 fit king size bed )<br>\n- 2 full bathroom ( 1 in master room) <br>\n- 1 boxed kitchen<br>\n- 1 dining room / 1 extra large living room <br>\n- 1 wide balcony <br>\n- hardwood floor throughout <br>\n- each bedroom has a big closet <br>\n- big windows, full of natural light <br>\n- powerful range hood <br>\n- excellent ventilation <br>\n- $3200, client pays utility <br>\n- move in ready now\n",
+ "category": "apartments / housing for rent",
+ "categoryAbbr": "apa",
+ "categoryId": 1,
+ "hasContactInfo": true,
+ "images": [
+  "3:00000_aXnnWSbfqgj_0nm0hw",
+  "3:00q0q_5O6bKj7ix3U_0nm0hw",
+  "3:00i0i_1yJOe9hVofi_0nm0hw",
+  "3:00X0X_2hGHvnmjW4D_0nm0hw",
+  "3:00E0E_j0JerrytO4E_0nm0hw",
+  "3:00404_3g9myPSyhOX_0nm0hw",
+  "3:01313_9lV0chDn7dS_0hw0nm",
+  "3:00h0h_hZO3BVNMYRC_0hw0nm",
+  "3:00A0A_ct8DbaEPez_0hw0nm",
+  "3:00P0P_7mxcqswIoVs_0hw0nm",
+  "3:00N0N_iU6sWzVLLtq_0nm0hw",
+  "3:00k0k_2aYQkCt6yMZ_0nm0hw"
+ ],
+ "location": {
+  "area": "new york",
+  "areaAbbr": "nyc",
+  "areaId": 3,
+  "description": "",
+  "displayAddress": "Van Horn St near 57 Av",
+  "hostname": "newyork",
+  "lat": 40.7351,
+  "lon": -73.8776,
+  "neighborhood": "",
+  "subArea": "queens",
+  "subareaAbbr": "que",
+  "type": "area"
+ },
+ "notices": [],
+ "postedDate": 1791190063,
+ "postingId": 7978162332,
+ "postingUuid": "g3yUzHFXkwngUgDhDdd7HU",
+ "price": 3200,
+ "priceString": "$3,200",
+ "recordCreated": 1791190063,
+ "section": "housing",
+ "seeMyOther": 0,
+ "streetAddress": "Van Horn St, Elmhurst, NY 11373",
+ "title": "Elmhurst huge 3 bed 2 bath 1 Ktcn 1 DR 1 LR 1 balcony MUST SEE!",
+ "updatedDate": 1791190063,
+ "url": "https://www.craigslist.org/view/d/elmhurst-elmhurst-huge-bed-bath-ktcn-dr/g3yUzHFXkwngUgDhDdd7HU"
+}

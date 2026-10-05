@@ -1,0 +1,294 @@
+{
+ "areas": {
+  "3": {
+   "areaUnits": "ft",
+   "currency": "USD",
+   "distanceUnits": "mi",
+   "name": "newyork"
+  }
+ },
+ "bundleDups": 0,
+ "cacheTs": 1791194744,
+ "canonicalUrl": "//www.craigslist.org/search/area/newyork?cat=eee",
+ "categoryAbbr": "eee",
+ "decode": {
+  "locationDescriptions": [
+   0,
+   "brooklyn",
+   "times square",
+   "Online",
+   "Brooklyn",
+   "manhattan",
+   "SoHo",
+   "Midtown",
+   "Downtown",
+   "Newport, JC",
+   "Chelsea",
+   "Manhattan",
+   "Staten Island",
+   "fairfield co, CT",
+   "Harlem / Morningside",
+   "Gramercy",
+   "Dyker Heights",
+   "Midtown West",
+   "Bronx",
+   "New York",
+   "Southport",
+   "East Village",
+   "queens",
+   "Upper East Side",
+   "Ditmas Park, Brooklyn",
+   "Brooklyn, Williamsburg",
+   "Union City, NJ",
+   "VALLEY STREAM",
+   "Pleasantville",
+   "Jamaica",
+   "staten island",
+   "Eastchester",
+   "Sunset Park, Brooklyn",
+   "Lower East Side",
+   "ELMHURST",
+   "Upper West Side",
+   "Bronx Highbridge",
+   "Queens",
+   "Woodside New York",
+   "Bayside",
+   "Jersey City",
+   "Impact Exhibition Center, Bangkok, Thailand"
+  ],
+  "locations": [
+   0,
+   [
+    3,
+    "newyork",
+    "brk"
+   ],
+   [
+    3,
+    "newyork",
+    "mnh"
+   ],
+   [
+    3,
+    "newyork",
+    "jsy"
+   ],
+   [
+    3,
+    "newyork",
+    "stn"
+   ],
+   [
+    3,
+    "newyork",
+    "fct"
+   ],
+   [
+    3,
+    "newyork",
+    "brx"
+   ],
+   [
+    3,
+    "newyork",
+    "que"
+   ],
+   [
+    3,
+    "newyork",
+    "lgi"
+   ],
+   [
+    3,
+    "newyork",
+    "wch"
+   ]
+  ],
+  "maxPostedDate": 1791188750,
+  "minDate": 1790035200,
+  "minPostedDate": 1780668327,
+  "minPostingId": 7938928587,
+  "neighborhoods": [
+   0,
+   "SoHo",
+   "Midtown",
+   "Downtown",
+   "Chelsea",
+   "Harlem / Morningside",
+   "Gramercy",
+   "Midtown West",
+   "East Village",
+   "Upper East Side",
+   "Lower East Side",
+   "Upper West Side"
+  ],
+  "version": 2
+ },
+ "detailsOrder": "date",
+ "humanReadableParams": [
+  {
+   "key": "sort",
+   "name": "sort",
+   "value": "newest"
+  }
+ ],
+ "items": [
+  [
+   39228462,
+   10520423,
+   38,
+   -1,
+   "1:1~40.6628~-73.9546",
+   0,
+   [
+    1,
+    39.0,
+    52.0
+   ],
+   [
+    13,
+    "8D5TE7p9AV6AyGLqm5jcVj"
+   ],
+   [
+    6,
+    "brooklyn-stock-of-company-giveaway"
+   ],
+   "Stock of a company giveaway"
+  ],
+  [
+   39221562,
+   10515613,
+   38,
+   -1,
+   "2:2~40.7597~-73.9918",
+   0,
+   [
+    1,
+    13.0,
+    13.0
+   ],
+   [
+    13,
+    "5wXq3ePSTfbRraMJyv7ntK"
+   ],
+   [
+    6,
+    "new-york-joven-latina"
+   ],
+   "🔥🔥🔥joven Latina🔥🔥🔥"
+  ],
+  [
+   39206823,
+   10507657,
+   38,
+   -1,
+   "2:3~40.7484~-73.9967",
+   0,
+   [
+    1,
+    13.0,
+    26.0
+   ],
+   [
+    13,
+    "5rVP2JD23bGmuabGmtji4L"
+   ],
+   [
+    6,
+    "new-york-junior-high-school-tutor-15"
+   ],
+   "Junior/High School Tutor - $15/h"
+  ],
+  [
+   39101796,
+   10488513,
+   8,
+   -1,
+   "1:4~40.6064~-74.0147",
+   0,
+   [
+    1,
+    13.0,
+    13.0
+   ],
+   [
+    13,
+    "91C7sVKtMi1aPmTqmE3HqF"
+   ],
+   [
+    6,
+    "brooklyn-monday-lunch"
+   ],
+   "Monday Lunch"
+  ],
+  [
+   39110847,
+   10487939,
+   38,
+   -1,
+   "2:5~40.7634~-73.974",
+   "0gl0t2",
+   [
+    1,
+    53.0,
+    53.0
+   ],
+   [
+    13,
+    "9v2FznxHzopaLZmFJ6fnHT"
+   ],
+   [
+    4,
+    "3:00g0g_bVxE4ZTKPhI_0gl0t2"
+   ],
+   [
+    6,
+    "new-york-reiki-training-and"
+   ],
+   "Reiki training and certification via Zoom."
+  ],
+  [
+   39102261,
+   10486599,
+   8,
+   -1,
+   "2:6:1~40.7199~-74.0036",
+   0,
+   [
+    1,
+    23.0,
+    23.0
+   ],
+   [
+    13,
+    "pyE9iAAoyYfUytCieNCkrC"
+   ],
+   [
+    6,
+    "new-york-art-gathering"
+   ],
+   "Art Gathering"
+  ]
+ ],
+ "lang": "en_US",
+ "location": {
+  "areaId": 3,
+  "city": "new york city",
+  "country": "US",
+  "lat": 40.714199,
+  "lon": -74.006401,
+  "postal": "",
+  "radius": 60,
+  "region": "NY",
+  "url": "newyork.craigslist.org"
+ },
+ "pageTitle": "new york  events/classes   - craigslist",
+ "params": {
+  "query": ""
+ },
+ "relatedSearches": [],
+ "resultsOrder": "date",
+ "totalResultCount": 125,
+ "updated": 1791194744,
+ "vicinity": null
+}

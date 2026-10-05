@@ -1,0 +1,382 @@
+{
+ "areas": {
+  "3": {
+   "areaUnits": "ft",
+   "currency": "USD",
+   "distanceUnits": "mi",
+   "name": "newyork"
+  }
+ },
+ "bundleDups": 0,
+ "cacheTs": 1791194745,
+ "canonicalUrl": "//www.craigslist.org/search/area/newyork?cat=rea&sort=upcoming",
+ "categoryAbbr": "rea",
+ "decode": {
+  "locationDescriptions": [
+   0,
+   "Midtown",
+   "Walk to Subway & Prospect Park [Brokers R Welcome]",
+   "East Flatbush",
+   "Yonkers",
+   "Queens, Close to the Belt Pkwy",
+   "Close to JFK & the Belt Pkwy",
+   "Bushwick",
+   "Walk To Many Subway Lines",
+   "Bedford Stuyvesant",
+   "Bushwick/Bedstuy, close to subway",
+   "A beautiful tree-lined block off Bedford Ave",
+   "Jamaica, Queens",
+   "Queens Village",
+   "Laurelton, Queens",
+   "Springfield Gardens, Queens",
+   "Canarsie",
+   "Canarsie, Brooklyn",
+   "Queens, Walk To Subway",
+   "Close To Baisley Park",
+   "Prime Williamsburg",
+   "E. NY, Walk To Subway",
+   "Close to the Belt Pkwy",
+   "Queens, close to the Belt Pkwy",
+   "Bushwick [VIDEO]",
+   "Close to Many Subway Lines: L, A, C, J, Z",
+   "off Bedford Ave",
+   "Brooklyn",
+   "Yonkers S Broadway, NY 10701",
+   "Old Mill Basin",
+   "Bushwick, close to subway",
+   "Walk to subway",
+   "Bushwick/Bedstuy border, close to many subway lines",
+   "Williamsburg, Selling Off Market",
+   "Canarsie, walk to subway",
+   "Queens, close to subway",
+   "Sunnyside"
+  ],
+  "locations": [
+   0,
+   [
+    3,
+    "newyork",
+    "mnh"
+   ],
+   [
+    3,
+    "newyork",
+    "brk"
+   ],
+   [
+    3,
+    "newyork",
+    "wch"
+   ],
+   [
+    3,
+    "newyork",
+    "que"
+   ]
+  ],
+  "maxPostedDate": 1791172651,
+  "minDate": 1790553600,
+  "minPostedDate": 1790418484,
+  "minPostingId": 7961535462,
+  "neighborhoods": [
+   0,
+   "Midtown"
+  ],
+  "version": 2
+ },
+ "detailsOrder": "upcoming",
+ "humanReadableParams": [
+  {
+   "key": "sort",
+   "name": "sort",
+   "value": "upcoming"
+  }
+ ],
+ "items": [
+  [
+   11594727,
+   0,
+   143,
+   3500,
+   "1:1:1~40.7637~-73.9816",
+   "0iV0c2",
+   [
+    2,
+    0.0,
+    5.0,
+    11.0
+   ],
+   [
+    13,
+    "uHKr7WnwwVvx43AAKe6d78"
+   ],
+   [
+    4,
+    "3:00z0z_9OElEqc7gJe_0iV0c2",
+    "3:01010_1N3NZLleLsz_0iV0c2",
+    "3:01313_1GN9gjLE3ca_0iV0c2",
+    "3:00G0G_3wqFIeDE7Gz_0iV0c2",
+    "3:00y0y_huy3TJhpJEw_0iV0c2",
+    "3:00T0T_jXJOIcy5CV_0iV0c2"
+   ],
+   [
+    6,
+    "new-york-one-bedroom"
+   ],
+   [
+    10,
+    "$3,500"
+   ],
+   "One-bedroom",
+   [
+    5,
+    1,
+    581
+   ]
+  ],
+  [
+   10498848,
+   617462,
+   144,
+   1349000,
+   "2:2~40.679~-73.9644",
+   "0il0ew",
+   -2,
+   [
+    2,
+    6.0,
+    3.0,
+    8.0
+   ],
+   [
+    13,
+    "pU8K3pU1JLdo459vA9XzVh"
+   ],
+   [
+    4,
+    "3:00L0L_47JNVJjTnbL_0il0ew",
+    "3:00j0j_1mBZSAOIMBV_0om0ev",
+    "3:00H0H_dxsi5AeNQsi_0ng0e1",
+    "3:01212_f6qSdGAg54X_0hH0bS",
+    "3:00g0g_hjHfuHeNPdc_0cM0aX",
+    "3:00202_iqsaPLt1yS1_07V0bq",
+    "3:00Y0Y_41wJFrba1ja_0hP0bS",
+    "3:00K0K_gJp8bA24xr3_0750aM",
+    "3:00x0x_7qvoisbjzR9_0cM0bf"
+   ],
+   [
+    6,
+    "brooklyn-brand-new-br-bth-condo-with"
+   ],
+   [
+    10,
+    "$1,349,000"
+   ],
+   "Brand-New 2 br/2 bth condo with private balcony & elevator",
+   [
+    5,
+    2,
+    0
+   ]
+  ],
+  [
+   14725905,
+   462838,
+   144,
+   1200,
+   "2:3~40.6179~-73.9856",
+   "0t20CI",
+   [
+    2,
+    4.0,
+    5.0,
+    7.0
+   ],
+   [
+    13,
+    "u8myCtadSnm7Kx4599TWmk"
+   ],
+   [
+    4,
+    "3:00303_fIUIn1u279q_0t20CI",
+    "3:00j0j_dpc4dLUN8bZ_0t20CI",
+    "3:00P0P_3fdT1K6kGgT_0t20CI"
+   ],
+   [
+    6,
+    "brooklyn-room-for-rent-east-flatbush"
+   ],
+   [
+    10,
+    "$1,200"
+   ],
+   "***🏡 ROOM FOR RENT — EAST FLATBUSH, BROOKLYN***",
+   [
+    5,
+    1,
+    0
+   ]
+  ],
+  [
+   14686614,
+   459692,
+   144,
+   2900,
+   "3:4~40.9327~-73.8531",
+   "0gw0co",
+   [
+    2,
+    4.0,
+    5.0,
+    7.0
+   ],
+   [
+    13,
+    "xyzSb4bB4jtyRQtUbkkPVj"
+   ],
+   [
+    4,
+    "3:00X0X_cniGesI3ysK_0gw0co",
+    "3:00K0K_5gzkZOs7PHV_0gw07H",
+    "3:00O0O_6dGEs488AKv_0gw07H",
+    "3:00U0U_5e2IZIZQwAw_0gw07H",
+    "3:01111_4rE1jJDPRAS_0gv0cn",
+    "3:00A0A_ldSPiJ5B8gx_0gw07H",
+    "3:00E0E_a78GWwDsMeJ_0gw07H",
+    "3:00o0o_5jUA4mroANz_0gw07H",
+    "3:00W0W_dkeBoWmEMMd_09i0co",
+    "3:00101_gbzuWEMbwYz_09h0co",
+    "3:01313_d7VlxmWF4nU_0gv0cn"
+   ],
+   [
+    6,
+    "yonkers-bright-and-spacious-apartment"
+   ],
+   [
+    10,
+    "$2,900"
+   ],
+   "Bright and Spacious Apartment for rent",
+   [
+    5,
+    2,
+    0
+   ]
+  ],
+  [
+   7676106,
+   533464,
+   144,
+   1349000,
+   "2:2~40.679~-73.9644",
+   "0cM0aX",
+   [
+    2,
+    4.0,
+    8.0,
+    10.0
+   ],
+   [
+    13,
+    "fJPpXjjMJGkFTGD9UGX266"
+   ],
+   [
+    4,
+    "3:00g0g_hjHfuHeNPdc_0cM0aX",
+    "3:01212_f6qSdGAg54X_0hH0bS",
+    "3:00202_iqsaPLt1yS1_07V0bq",
+    "3:00x0x_7qvoisbjzR9_0cM0bf",
+    "3:00Y0Y_41wJFrba1ja_0hP0bS",
+    "3:00K0K_gJp8bA24xr3_0750aM",
+    "3:00j0j_1mBZSAOIMBV_0om0ev",
+    "3:00L0L_47JNVJjTnbL_0il0ew",
+    "3:00H0H_dxsi5AeNQsi_0ng0e1"
+   ],
+   [
+    6,
+    "brooklyn-brand-new-br-bth-condo-with"
+   ],
+   [
+    10,
+    "$1,349,000"
+   ],
+   "Brand-New 2 br/2 bth condo with private balcony & elevator",
+   [
+    5,
+    2,
+    943
+   ]
+  ],
+  [
+   2434923,
+   533445,
+   144,
+   1399000,
+   "2:5~40.6505~-73.9349",
+   "09A07g",
+   [
+    2,
+    5.0,
+    7.0,
+    4.0
+   ],
+   [
+    13,
+    "4D7ssMPxwdAUNohbfQEcMd"
+   ],
+   [
+    4,
+    "3:00N0N_bv3FhEKueO6_09A07g",
+    "3:00505_b0usO7IlVHH_09k07g",
+    "3:00N0N_2py2dwOMQ9t_09G07g",
+    "3:00707_a9IxcrlIwbJ_05l07g",
+    "3:00r0r_hvkAEXbhJVc_05r07g",
+    "3:00000_6mFrXv6Nu4K_05r07g",
+    "3:00i0i_9OBmulrtmIF_05r07g",
+    "3:01414_eJQbIOjscGL_05r07g",
+    "3:00q0q_i6Tl7RpNFMX_09G07g",
+    "3:01414_7Ju1PNcpPtG_09G07g",
+    "3:00B0B_a9nZ7aGtd2O_05q07g",
+    "3:00H0H_aCYsX997bVq_09G07g",
+    "3:00V0V_btwkd315nrg_09G07g",
+    "3:01414_8M9cuQgtoRS_09G06A"
+   ],
+   [
+    6,
+    "brooklyn-all-new-detached-family-with"
+   ],
+   [
+    10,
+    "$1,399,000"
+   ],
+   "All New Detached 2 Family With BIG Bedrooms (VIDEO)",
+   [
+    5,
+    6,
+    0
+   ]
+  ]
+ ],
+ "lang": "en_US",
+ "location": {
+  "areaId": 3,
+  "city": "new york city",
+  "country": "US",
+  "lat": 40.714199,
+  "lon": -74.006401,
+  "postal": "",
+  "radius": 60,
+  "region": "NY",
+  "url": "newyork.craigslist.org"
+ },
+ "pageTitle": "new york  real estate   - craigslist",
+ "params": {
+  "query": "",
+  "sort": "upcoming"
+ },
+ "relatedSearches": [],
+ "resultsOrder": "upcoming",
+ "totalResultCount": 90,
+ "updated": 1791194745,
+ "vicinity": null
+}

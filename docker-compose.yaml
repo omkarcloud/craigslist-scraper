@@ -1,0 +1,10 @@
+services:
+  craigslist-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — only needed on cloud servers Craigslist refuses (HTTP 403).
+      # - CRAIGSLIST_PROXY=http://user:pass@host:port

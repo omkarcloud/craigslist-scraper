@@ -1,0 +1,420 @@
+{
+ "items": [
+  {
+   "abbreviation": "hhh",
+   "count": 767,
+   "items": [
+    {
+     "abbreviation": "rea",
+     "count": 130,
+     "label": "real estate"
+    },
+    {
+     "abbreviation": "apa",
+     "count": 467,
+     "label": "apartments / housing for rent"
+    },
+    {
+     "abbreviation": "rew",
+     "count": 1,
+     "label": "wanted: real estate"
+    },
+    {
+     "abbreviation": "off",
+     "count": 62,
+     "label": "office & commercial"
+    },
+    {
+     "abbreviation": "sub",
+     "count": 30,
+     "label": "sublets & temporary"
+    },
+    {
+     "abbreviation": "roo",
+     "count": 48,
+     "label": "rooms & shares"
+    },
+    {
+     "abbreviation": "prk",
+     "count": 21,
+     "label": "parking & storage"
+    },
+    {
+     "abbreviation": "vac",
+     "count": 8,
+     "label": "vacation rentals"
+    }
+   ],
+   "label": "housing"
+  },
+  {
+   "abbreviation": "sss",
+   "count": 3543,
+   "items": [
+    {
+     "abbreviation": "foa",
+     "count": 91,
+     "label": "general for sale"
+    },
+    {
+     "abbreviation": "ara",
+     "count": 4,
+     "label": "arts & crafts"
+    },
+    {
+     "abbreviation": "rva",
+     "count": 1,
+     "label": "recreational vehicles"
+    },
+    {
+     "abbreviation": "hva",
+     "count": 1,
+     "label": "heavy equipment"
+    },
+    {
+     "abbreviation": "sga",
+     "count": 172,
+     "label": "sporting goods"
+    },
+    {
+     "abbreviation": "taa",
+     "count": 14,
+     "label": "toys & games"
+    },
+    {
+     "abbreviation": "ela",
+     "count": 82,
+     "label": "electronics"
+    },
+    {
+     "abbreviation": "tra",
+     "count": 3,
+     "label": "trailers"
+    },
+    {
+     "abbreviation": "sna",
+     "count": 13,
+     "label": "atvs, utvs, snowmobiles"
+    },
+    {
+     "abbreviation": "ppa",
+     "count": 7,
+     "label": "appliances"
+    },
+    {
+     "abbreviation": "baa",
+     "count": 50,
+     "label": "baby & kid stuff"
+    },
+    {
+     "abbreviation": "jwa",
+     "count": 1,
+     "label": "jewelry"
+    },
+    {
+     "abbreviation": "bia",
+     "count": 2315,
+     "label": "bicycles"
+    },
+    {
+     "abbreviation": "sya",
+     "count": 2,
+     "label": "computers"
+    },
+    {
+     "abbreviation": "ata",
+     "count": 6,
+     "label": "antiques"
+    },
+    {
+     "abbreviation": "gms",
+     "count": 5,
+     "label": "garage & moving sales"
+    },
+    {
+     "abbreviation": "boo",
+     "count": 6,
+     "label": "boats"
+    },
+    {
+     "abbreviation": "zip",
+     "count": 11,
+     "label": "free stuff"
+    },
+    {
+     "abbreviation": "haa",
+     "count": 16,
+     "label": "health and beauty"
+    },
+    {
+     "abbreviation": "cla",
+     "count": 29,
+     "label": "clothing & accessories"
+    },
+    {
+     "abbreviation": "bip",
+     "count": 376,
+     "label": "bicycle parts"
+    },
+    {
+     "abbreviation": "maa",
+     "count": 6,
+     "label": "materials"
+    },
+    {
+     "abbreviation": "tla",
+     "count": 10,
+     "label": "tools"
+    },
+    {
+     "abbreviation": "pta",
+     "count": 22,
+     "label": "auto parts"
+    },
+    {
+     "abbreviation": "waa",
+     "count": 22,
+     "label": "wanted"
+    },
+    {
+     "abbreviation": "cba",
+     "count": 9,
+     "label": "collectibles"
+    },
+    {
+     "abbreviation": "gra",
+     "count": 1,
+     "label": "farm & garden"
+    },
+    {
+     "abbreviation": "bfa",
+     "count": 1,
+     "label": "business"
+    },
+    {
+     "abbreviation": "mca",
+     "count": 95,
+     "label": "motorcycles/scooters"
+    },
+    {
+     "abbreviation": "mpa",
+     "count": 67,
+     "label": "motorcycle parts & accessories"
+    },
+    {
+     "abbreviation": "bka",
+     "count": 5,
+     "label": "books & magazines"
+    },
+    {
+     "abbreviation": "cta",
+     "count": 7,
+     "label": "cars & trucks"
+    },
+    {
+     "abbreviation": "bar",
+     "count": 8,
+     "label": "barter"
+    },
+    {
+     "abbreviation": "pha",
+     "count": 5,
+     "label": "photo/video"
+    },
+    {
+     "abbreviation": "fua",
+     "count": 18,
+     "label": "furniture"
+    },
+    {
+     "abbreviation": "bpa",
+     "count": 1,
+     "label": "boat parts & accessories"
+    },
+    {
+     "abbreviation": "wta",
+     "count": 4,
+     "label": "auto wheels & tires"
+    },
+    {
+     "abbreviation": "msa",
+     "count": 4,
+     "label": "musical instruments"
+    },
+    {
+     "abbreviation": "hsa",
+     "count": 53,
+     "label": "household items"
+    }
+   ],
+   "label": "for sale"
+  },
+  {
+   "abbreviation": "ggg",
+   "count": 27,
+   "items": [
+    {
+     "abbreviation": "cwg",
+     "count": 1,
+     "label": "crew gigs"
+    },
+    {
+     "abbreviation": "crg",
+     "count": 1,
+     "label": "creative gigs"
+    },
+    {
+     "abbreviation": "lbg",
+     "count": 25,
+     "label": "labor gigs"
+    }
+   ],
+   "label": "gigs"
+  },
+  {
+   "abbreviation": "eee",
+   "count": 1,
+   "items": [
+    {
+     "abbreviation": "eve",
+     "count": 1,
+     "label": "events"
+    }
+   ],
+   "label": "events/classes"
+  },
+  {
+   "abbreviation": "rrr",
+   "count": 2,
+   "items": [
+    {
+     "abbreviation": "res",
+     "count": 2,
+     "label": "resumes / job wanted"
+    }
+   ],
+   "label": "resumes"
+  },
+  {
+   "abbreviation": "jjj",
+   "count": 48,
+   "items": [
+    {
+     "abbreviation": "lab",
+     "count": 8,
+     "label": "general labor"
+    },
+    {
+     "abbreviation": "csr",
+     "count": 4,
+     "label": "customer service"
+    },
+    {
+     "abbreviation": "fbh",
+     "count": 14,
+     "label": "food/beverage/hospitality"
+    },
+    {
+     "abbreviation": "wri",
+     "count": 1,
+     "label": "writing/editing"
+    },
+    {
+     "abbreviation": "etc",
+     "count": 7,
+     "label": "et cetera"
+    },
+    {
+     "abbreviation": "trp",
+     "count": 14,
+     "label": "transportation"
+    }
+   ],
+   "label": "jobs"
+  },
+  {
+   "abbreviation": "ccc",
+   "count": 14,
+   "items": [
+    {
+     "abbreviation": "mis",
+     "count": 1,
+     "label": "missed connections"
+    },
+    {
+     "abbreviation": "com",
+     "count": 1,
+     "label": "general community"
+    },
+    {
+     "abbreviation": "ats",
+     "count": 4,
+     "label": "artists"
+    },
+    {
+     "abbreviation": "rid",
+     "count": 1,
+     "label": "rideshare"
+    },
+    {
+     "abbreviation": "laf",
+     "count": 4,
+     "label": "lost & found"
+    },
+    {
+     "abbreviation": "rnr",
+     "count": 3,
+     "label": "rants & raves"
+    }
+   ],
+   "label": "community"
+  },
+  {
+   "abbreviation": "bbb",
+   "count": 155,
+   "items": [
+    {
+     "abbreviation": "lbs",
+     "count": 113,
+     "label": "labor / hauling / moving"
+    },
+    {
+     "abbreviation": "fgs",
+     "count": 1,
+     "label": "farm & garden services"
+    },
+    {
+     "abbreviation": "aos",
+     "count": 3,
+     "label": "automotive services"
+    },
+    {
+     "abbreviation": "cps",
+     "count": 6,
+     "label": "computer services"
+    },
+    {
+     "abbreviation": "hss",
+     "count": 18,
+     "label": "household services"
+    },
+    {
+     "abbreviation": "sks",
+     "count": 10,
+     "label": "skilled trade services"
+    },
+    {
+     "abbreviation": "cys",
+     "count": 3,
+     "label": "cycle services"
+    },
+    {
+     "abbreviation": "biz",
+     "count": 1,
+     "label": "small biz ads"
+    }
+   ],
+   "label": "services"
+  }
+ ]
+}

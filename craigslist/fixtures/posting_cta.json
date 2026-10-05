@@ -1,0 +1,118 @@
+{
+ "attributes": [
+  {
+   "forSearch": {
+    "auto_make_model": "Ford pinto cruisin wagon"
+   },
+   "label": "make/model",
+   "postingAttributeKey": "auto_make_model",
+   "specialType": "makemodel",
+   "value": "Ford pinto cruisin wagon"
+  },
+  {
+   "label": "year",
+   "postingAttributeKey": "auto_year",
+   "specialType": "auto_year",
+   "value": "1977"
+  },
+  {
+   "forSearch": {
+    "auto_fuel_type": "1"
+   },
+   "label": "fuel",
+   "postingAttributeKey": "auto_fuel_type",
+   "specialType": "key_value",
+   "value": "gas"
+  },
+  {
+   "label": "odometer",
+   "postingAttributeKey": "auto_miles",
+   "specialType": "key_value",
+   "value": "10,700"
+  },
+  {
+   "forSearch": {
+    "auto_title_status": "1"
+   },
+   "label": "title status",
+   "postingAttributeKey": "auto_title_status",
+   "specialType": "key_value",
+   "value": "clean"
+  },
+  {
+   "forSearch": {
+    "auto_transmission": "2"
+   },
+   "label": "transmission",
+   "postingAttributeKey": "auto_transmission",
+   "specialType": "key_value",
+   "value": "automatic"
+  },
+  {
+   "forSearch": {
+    "auto_bodytype": "11"
+   },
+   "label": "type",
+   "postingAttributeKey": "auto_bodytype",
+   "specialType": "key_value",
+   "value": "wagon"
+  }
+ ],
+ "body": "WOW. Ford was really having fun when they made these cruising wagons .. wild paint scheme, modified station wagon body with the ample V6. A great cruiser, truly. <br>\n<br>\nThe one I have here for sale is a 1977 Red , V6 automatic. With incredibly Low Mileage for the year.<br>\n<br>\nFully reupholstered seats in the awesome original plaid fabric. Chrome is in great shape and is very shiny<br>\n<br>\nPractically new tires. They still have the mark on them.<br>\n<br>\nRuns and drives just fine, idles totally smooth, push the gas and it gets right up to speed on the highway no problem. The steering is light and of course this pinto has TONS of room in the back. <br>\n<br>\nThe mag wheels are in good shape everything mechanically about this car is quite nice.<br>\n<br>\nNow for the issues. Like many vehicles from the 1970s that are surviving today it does have rust in the corners of the doors and stuff starting to show. I did take the liberty to totally clean the car and ensure that nothing was stuck inside any of those corners and this vehicle is really just waiting for someone to take her home and give it the extra bit of love that it needs to get it fully shining again.<br>\n<br>\nThere is also a small oil leak around the oil pan which should not be difficult to fix with a new gasket. I also will have the oil pan gasket available to provide with the sale of the vehicle. <br>\n<br>\nI'm willing to hear any and all offers, please make them respectable though. And let's get somebody ready to drive home in their new Pinto cruising wagon.<br>\n",
+ "category": "cars & trucks - by owner",
+ "categoryAbbr": "cto",
+ "categoryId": 145,
+ "hasContactInfo": true,
+ "images": [
+  "3:00y0y_glhe16KVlH7_0Cz0t2",
+  "3:01313_4uymzBmB8LK_0Cz0t2",
+  "3:00707_ihOSjUE0hx7_0Cz0t2",
+  "3:00R0R_5bR80QZuiIF_0Cz0t2",
+  "3:01313_ehb35v9d5J0_0Cz0t2",
+  "3:00j0j_k3wZsoqAFT0_0Cz0t2",
+  "3:00x0x_kPKrgcmxKZ0_0Cz0t2",
+  "3:00o0o_fRfzuNFDlwM_0Cz0t2",
+  "3:00c0c_k3OcxY9mifv_0Cz0t2",
+  "3:00I0I_11rJEdCKl0F_0Cz0t2",
+  "3:00808_aOPV6IMhEka_0Cz0t2",
+  "3:00u0u_2R3Wg2cguGi_0Cz0t2",
+  "3:00O0O_iJpoIl6w1d9_0Cz0t2",
+  "3:00S0S_kpXstgwcWne_0Cz0t2",
+  "3:00J0J_8jSWpjElpV_0Cz0t2",
+  "3:01010_9FHhGVnqoXI_0Cz0t2",
+  "3:00W0W_jDSaExLirlZ_0Cz0t2",
+  "3:00I0I_4TL9t9wXEZo_0Cz0t2",
+  "3:00303_53iakRA8mYP_0Cz0t2",
+  "3:00V0V_gW02UQHPMx3_0Cz0t2",
+  "3:00Q0Q_8zMj9r0iJYk_0Cz0t2",
+  "3:00y0y_o7xmjASXpY_0Cz0t2"
+ ],
+ "location": {
+  "area": "new york",
+  "areaAbbr": "nyc",
+  "areaId": 3,
+  "description": "",
+  "displayAddress": "",
+  "hostname": "newyork",
+  "lat": 40.7272,
+  "lon": -73.7949,
+  "neighborhood": "",
+  "subArea": "queens",
+  "subareaAbbr": "que",
+  "type": "area"
+ },
+ "notices": [],
+ "postedDate": 1791194535,
+ "postingId": 7978169508,
+ "postingUuid": "8jSH5RugfTxtJ6GRYYvD4R",
+ "price": 4255,
+ "priceString": "$4,255",
+ "recordCreated": 1791194535,
+ "repostOf": 7932423472,
+ "section": "for sale",
+ "seeMyOther": 0,
+ "streetAddress": 0,
+ "title": "1977 Ford Pinto Cruisin Wagon station wagon. price lowered!",
+ "updatedDate": 1791194535,
+ "url": "https://www.craigslist.org/view/d/fresh-meadows-1977-ford-pinto-cruisin/8jSH5RugfTxtJ6GRYYvD4R"
+}

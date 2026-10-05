@@ -1,0 +1,41 @@
+{
+ "attributes": [
+  {
+   "label": "dates",
+   "postingAttributeKey": "date_range",
+   "specialType": "dateRange",
+   "value": "2026-10-31,2026-11-13"
+  }
+ ],
+ "body": "Respond to this for info, thanks<br>\n",
+ "category": "classes",
+ "categoryAbbr": "cls",
+ "categoryId": 38,
+ "hasContactInfo": true,
+ "images": [],
+ "location": {
+  "area": "new york",
+  "areaAbbr": "nyc",
+  "areaId": 3,
+  "description": "",
+  "displayAddress": "",
+  "hostname": "newyork",
+  "lat": 40.6628,
+  "lon": -73.9546,
+  "neighborhood": "",
+  "subArea": "brooklyn",
+  "subareaAbbr": "brk",
+  "type": "area"
+ },
+ "notices": [],
+ "postedDate": 1791188750,
+ "postingId": 7978157049,
+ "postingUuid": "8D5TE7p9AV6AyGLqm5jcVj",
+ "recordCreated": 1791186290,
+ "section": "events/classes",
+ "seeMyOther": 0,
+ "streetAddress": 0,
+ "title": "Stock of a company giveaway",
+ "updatedDate": 1791186290,
+ "url": "https://www.craigslist.org/view/d/brooklyn-stock-of-company-giveaway/8D5TE7p9AV6AyGLqm5jcVj"
+}
