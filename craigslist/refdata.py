@@ -17,6 +17,7 @@ import time
 
 from craigslist import refs
 from craigslist.fetch import REFERENCE, get_json
+from scraper_utils import memo as memo_utils
 
 AREAS_TTL = 24 * 3600
 
@@ -25,15 +26,7 @@ _memo = {}
 
 
 def memo(key, ttl, build):
-    now = time.time()
-    with _lock:
-        hit = _memo.get(key)
-        if hit and hit[0] > now:
-            return hit[1]
-    value = build()
-    with _lock:
-        _memo[key] = (now + ttl, value)
-    return value
+    return memo_utils.expiring(_memo, _lock, key, ttl, build)
 
 
 # ---- categories (static) -----------------------------------------------------------

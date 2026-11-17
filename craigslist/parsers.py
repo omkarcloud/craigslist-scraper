@@ -25,6 +25,7 @@ import re
 from datetime import datetime, timedelta, timezone
 
 from craigslist import refdata, refs
+from scraper_utils.text import squashed_any as text
 
 PER_PAGE = 120
 CHUNK = 360
@@ -58,12 +59,6 @@ COUNTRY_CURRENCIES = {
 
 
 # ---- primitives --------------------------------------------------------------------
-
-def text(value):
-    if value is None or isinstance(value, bool):
-        return None
-    value = " ".join(str(value).split())
-    return value or None
 
 
 def to_int(value):

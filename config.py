@@ -30,5 +30,15 @@ def craigslist_proxy():
     return os.environ.get("CRAIGSLIST_PROXY") or None
 
 
-def craigslist_fallback_proxy():
+def craigslist_fallback_proxy(*args, **kwargs):
     return os.environ.get("CRAIGSLIST_PROXY") or None
+
+
+# ---- added by the sync: defaults for a direct run ----
+def craigslist_fallback_exits():
+    return ()
+
+
+def gateway_exit(exit=None):
+    return None
+
